@@ -1,0 +1,1051 @@
+ScriptsOnlyBuild:
+  usedScripts:
+    Assembly-CSharp.dll:
+    - InstantiationOrbsCombined
+    - Noise
+    - Tobii.XR.Examples.HighlightAtGaze
+    - ViveSR.anipal.Eye.SRanipal_GazeRaySample
+    TobiiXRSDK.dll:
+    - Tobii.XR.Internal.TobiiEulaFile
+    - TobiiXR_Initializer
+    Unity.Rider.Editor.dll:
+    - Packages.Rider.Editor.UnitTesting.CallbackData
+    Unity.TextMeshPro.dll:
+    - TMPro.TMP_FontAsset
+    - TMPro.TMP_Settings
+    - TMPro.TMP_SpriteAsset
+    - TMPro.TMP_StyleSheet
+    - TMPro.TextMeshPro
+    Unity.XR.Management.Editor.dll:
+    - UnityEditor.XR.Management.XRGeneralSettingsPerBuildTarget
+    Unity.XR.Management.dll:
+    - UnityEngine.XR.Management.XRGeneralSettings
+    - UnityEngine.XR.Management.XRManagerSettings
+    UnityEditor.TestRunner.dll:
+    - UnityEditor.TestTools.TestRunner.Api.CallbacksHolder
+    - UnityEditor.TestTools.TestRunner.TestListCacheData
+    - UnityEditor.TestTools.TestRunner.TestRun.TestJobDataHolder
+    UnityEngine.UI.dll:
+    - UnityEngine.EventSystems.EventSystem
+    - UnityEngine.EventSystems.StandaloneInputModule
+  sceneClasses:
+    Assets/Scenes/ParticleScene.unity:
+    - Class: 1
+      Script: {instanceID: 0}
+    - Class: 4
+      Script: {instanceID: 0}
+    - Class: 20
+      Script: {instanceID: 0}
+    - Class: 21
+      Script: {instanceID: 0}
+    - Class: 23
+      Script: {instanceID: 0}
+    - Class: 28
+      Script: {instanceID: 0}
+    - Class: 33
+      Script: {instanceID: 0}
+    - Class: 43
+      Script: {instanceID: 0}
+    - Class: 48
+      Script: {instanceID: 0}
+    - Class: 49
+      Script: {instanceID: 0}
+    - Class: 64
+      Script: {instanceID: 0}
+    - Class: 65
+      Script: {instanceID: 0}
+    - Class: 81
+      Script: {instanceID: 0}
+    - Class: 104
+      Script: {instanceID: 0}
+    - Class: 108
+      Script: {instanceID: 0}
+    - Class: 114
+      Script: {instanceID: 11520}
+    - Class: 114
+      Script: {instanceID: 12192}
+    - Class: 114
+      Script: {instanceID: 12230}
+    - Class: 114
+      Script: {instanceID: 12874}
+    - Class: 114
+      Script: {instanceID: 12904}
+    - Class: 114
+      Script: {instanceID: 13034}
+    - Class: 114
+      Script: {instanceID: 13084}
+    - Class: 114
+      Script: {instanceID: 13098}
+    - Class: 114
+      Script: {instanceID: 13158}
+    - Class: 114
+      Script: {instanceID: 13634}
+    - Class: 114
+      Script: {instanceID: 13750}
+    - Class: 114
+      Script: {instanceID: 13818}
+    - Class: 114
+      Script: {instanceID: 13920}
+    - Class: 115
+      Script: {instanceID: 0}
+    - Class: 120
+      Script: {instanceID: 0}
+    - Class: 128
+      Script: {instanceID: 0}
+    - Class: 135
+      Script: {instanceID: 0}
+    - Class: 157
+      Script: {instanceID: 0}
+    - Class: 196
+      Script: {instanceID: 0}
+    - Class: 222
+      Script: {instanceID: 0}
+    - Class: 224
+      Script: {instanceID: 0}
+  scriptHashData:
+  - hash:
+      serializedVersion: 2
+      Hash: aeb62f729c52c814dec86c47dcac1471
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Text
+  - hash:
+      serializedVersion: 2
+      Hash: ae83e830e7a90c0aff918c4c2e520825
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GraphicRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 4bc4346a71a8df53a6b106f68ef3a190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: CanvasScaler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Lip
+    className: SRanipal_MirrorCameraSample_Lip
+  - hash:
+      serializedVersion: 2
+      Hash: c42672c997f8be6b1aa86a927ebea785
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SelectionCaret
+  - hash:
+      serializedVersion: 2
+      Hash: 7289bb55ebe246d1c9bbbba28aba820a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: TobiiXRThrowingSceneManager
+  - hash:
+      serializedVersion: 2
+      Hash: 87ff43d2baf3385cba327d8f803a4ebb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: b4fc42b020df4b67385e61ff21d513cc
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 177eb4d5d5518389f6a1397843e61664
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InstantiationOrbsCombined_PreFeb_21_2021
+  - hash:
+      serializedVersion: 2
+      Hash: 8861cea1f74abf9a4296672f25c6f5ad
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.DevTools
+    className: DevToolsUIGazeToggleButtonGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 8861cea1f74abf9a4296672f25c6f5ad
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIGazeToggleButtonGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 0141781673a929c62ce37f997e4b90d9
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InstantiationExample
+  - hash:
+      serializedVersion: 2
+      Hash: e7a73f5f78ba6445195ec23b74a1ce2d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ScrollbarEventHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayerQuitHandler
+  - hash:
+      serializedVersion: 2
+      Hash: 18a323828139525f5561e9c7249ea1de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_GazeRaySample
+  - hash:
+      serializedVersion: 2
+      Hash: 04e4a8b0447477cc4e933d9e5311188f
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: ArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: 41b8b611701392f065e089aca3e1f097
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Lip
+    className: SRanipal_AvatarLipSample_v2
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: GroupTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 80056033cb5e6ad24370dd4a3ab16740
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_Eye_Framework
+  - hash:
+      serializedVersion: 2
+      Hash: a5781dc71a671b1ad2b38de19f24b71f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UIPrinter
+  - hash:
+      serializedVersion: 2
+      Hash: ab7f6b265a194435f5b1f0d4b9e3c782
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITouchpadGazeButton
+  - hash:
+      serializedVersion: 2
+      Hash: 3d68d96cbf965d218d0c6c4a192a9ed4
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: ControllerVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 499fd23433e68e265d153aa6b95d0047
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Scrollbar
+  - hash:
+      serializedVersion: 2
+      Hash: d31ff47b3802c1fc5fed1ab94d235107
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UIGazeCollider
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: PositionAsUV1
+  - hash:
+      serializedVersion: 2
+      Hash: abf1930d8126d0b2e00e9449129a0190
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: TouchInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 98aa0a0c8ff2910eb12af89c7e0eb661
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRGeneralSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 89f9a1b4c64db9559e39f4a2e3bfaadd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Image
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: TestResultRendererCallback
+  - hash:
+      serializedVersion: 2
+      Hash: 312dfa5f5d758ddf890e29ea84ecc66c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Lip
+    className: SRanipal_AvatarLipSample
+  - hash:
+      serializedVersion: 2
+      Hash: 234d407605354852c48e57df17c9a1c6
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.DevTools
+    className: DevToolsControllerManager
+  - hash:
+      serializedVersion: 2
+      Hash: f65228537b2e1d4c242d3875fe3311b0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_AvatarEyeSample_v2
+  - hash:
+      serializedVersion: 2
+      Hash: 7ab0e790220bdca831fdd886b339039d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: GridLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f4a65f40c8a0c16ac3b387a8e8255634
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: G2OM_SimpleMovement
+  - hash:
+      serializedVersion: 2
+      Hash: 8aa3d6ccbcb54ee8db6c1229854adaaa
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ContentSizeFitter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TobiiXRSDK.dll
+    namespaceName: Tobii.XR.Internal
+    className: TobiiXR_Lifecycle
+  - hash:
+      serializedVersion: 2
+      Hash: ddb400cd83de34f5fd4366bd9768422e
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: GazeModifierFilter
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_MirrorCameraSample_Eye
+  - hash:
+      serializedVersion: 2
+      Hash: 0dbc3be398b4869a5c8d0d8481ee402c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: LayoutElement
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: PhysicsRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MainMenu
+  - hash:
+      serializedVersion: 2
+      Hash: bd3cf68c8964d3c66d1c43f4f98508c9
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationTrack
+  - hash:
+      serializedVersion: 2
+      Hash: cf9f5cf2c3145a37ac07f00e50e460f9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: AspectRatioFitter
+  - hash:
+      serializedVersion: 2
+      Hash: ef5c43f921427d03730f6ea4c848f07d
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RectMask2D
+  - hash:
+      serializedVersion: 2
+      Hash: 1103fb0758976355cdf9b7d5ce9cb7e0
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMeshUI
+  - hash:
+      serializedVersion: 2
+      Hash: 52bcb9c2a78bdd8d98a59e915c346e75
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: TransitionArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: abd9531b9aec007dfeabdc522f923a02
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UIHighlightAtGaze
+  - hash:
+      serializedVersion: 2
+      Hash: 5ab533713adae59372fb3e10a585c186
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AnimationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 04deaa5a7d5ca910da3e36ef259f1330
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: G2OM_SimpleScaling
+  - hash:
+      serializedVersion: 2
+      Hash: 18a323828139525f5561e9c7249ea1de
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_GazeRaySample_v2
+  - hash:
+      serializedVersion: 2
+      Hash: aba7b2852ef61d175dd9602e7723d5e5
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Mask
+  - hash:
+      serializedVersion: 2
+      Hash: d251bf88db6c95a6b1aa0b69298da9ef
+    assemblyName: UnityEngine.SpatialTracking.dll
+    namespaceName: UnityEngine.SpatialTracking
+    className: TrackedPoseDriver
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Shadow
+  - hash:
+      serializedVersion: 2
+      Hash: cd714548a49722fef9e641c5ba6dc5a6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InstantiationOrbs
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: GazeThrowTarget
+  - hash:
+      serializedVersion: 2
+      Hash: cc4274b586df3c02688bac01b88bd16c
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventSystem
+  - hash:
+      serializedVersion: 2
+      Hash: 441760aaa3f44609ef421790b8e62974
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITriggerGazeButtonWithHold
+  - hash:
+      serializedVersion: 2
+      Hash: 0fb27be807aa299702f28ad0bcad1f46
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 5cc439bf63c0539d39588e69465ac2ab
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAsset
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ControlTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 7199a76bd941a164cf852ae1444522f7
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Lip
+    className: SRanipal_Lip_Framework
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: RotateWithHMD
+  - hash:
+      serializedVersion: 2
+      Hash: 8dc90e648ac06f43bdd31ac9fa8f4579
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Selectable
+  - hash:
+      serializedVersion: 2
+      Hash: 4bbae83894a6b49e5939a489bbe6800d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: DataTransparencyPopup
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: BrainData
+  - hash:
+      serializedVersion: 2
+      Hash: d4020bafcd3ccbb5601a6e6c8ac78be0
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ScrollRect
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalTrack
+  - hash:
+      serializedVersion: 2
+      Hash: d6272ecee6a86a8ef85955ac64633b72
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Handle3DEyes
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SpriteAnimator
+  - hash:
+      serializedVersion: 2
+      Hash: 7685255b8fe345d85152eb1a14dd15a8
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: FollowCameraHeight
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_EyeFocusSample_v2
+  - hash:
+      serializedVersion: 2
+      Hash: dde0cc49b89363a85671f8d9c62ed793
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITriggerDragDetector
+  - hash:
+      serializedVersion: 2
+      Hash: dde0cc49b89363a85671f8d9c62ed793
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: DevToolsUITriggerDragDetector
+  - hash:
+      serializedVersion: 2
+      Hash: 4ea0c6b0d804b73e685770c4f35f179b
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIGazeSliderGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 0d86f67a90652735a81f6f8981600964
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.DevTools
+    className: DevToolsUIGazeSliderGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: RemoteTestResultSender
+  - hash:
+      serializedVersion: 2
+      Hash: fc579c934abd88ac348eee4a5cc3ea08
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: EEG
+  - hash:
+      serializedVersion: 2
+      Hash: ad3c5de1c828ef73fc5cfbc0a3350c64
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Handle3DExpressions
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: ResetObjectPosition
+  - hash:
+      serializedVersion: 2
+      Hash: 4fd8bf02e3089425d3502e26c44ba31a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextContainer
+  - hash:
+      serializedVersion: 2
+      Hash: 5192d3153785c67fc6616e8f32c4df01
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: OrbWall
+  - hash:
+      serializedVersion: 2
+      Hash: 5f1752ed2092162f016c19510c28a8b9
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Button
+  - hash:
+      serializedVersion: 2
+      Hash: f84d945e5e1ca985698660fc26e9657f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: RawImage
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: MoveOrb
+  - hash:
+      serializedVersion: 2
+      Hash: ec867f0cbe58199d90765b57eae35d62
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Handle2DEyes
+  - hash:
+      serializedVersion: 2
+      Hash: cfe171643d4cce1085299c4ca3a4aaa5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITriggerGazeToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: 5c8878fea708e23359098725bb85c94f
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: DevToolsUITriggerGazeToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: cfe171643d4cce1085299c4ca3a4aaa5
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITouchpadGazeToggleButton
+  - hash:
+      serializedVersion: 2
+      Hash: 09d91b314822c921ff46a0432cecf2df
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: HighlightAtGaze
+  - hash:
+      serializedVersion: 2
+      Hash: 02b46356f726a122ba7117783c579e80
+    assemblyName: TobiiXRSDK.dll
+    namespaceName: 
+    className: TobiiXR_Initializer
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: VerticalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: f4a65f40c8a0c16ac3b387a8e8255634
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: G2OM_SimpleRotation
+  - hash:
+      serializedVersion: 2
+      Hash: b0130825bebc96be084a64486f57febf
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Noise
+  - hash:
+      serializedVersion: 2
+      Hash: 783f593b9380cf72d0f7ebfd4a0d4bcd
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: InputField
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: GazeOutline
+  - hash:
+      serializedVersion: 2
+      Hash: c9a8b80298a116835b51ba1cf9284367
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalReceiver
+  - hash:
+      serializedVersion: 2
+      Hash: 5ad4aa237d47ac2bab17bacb672edf7a
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: HorizontalLayoutGroup
+  - hash:
+      serializedVersion: 2
+      Hash: 344a8c2e106a0a4e098e91a52e0af063
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_FontAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 87ad3705a58f19c47136728d4a6e9c47
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_Settings
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: ActivationPlayableAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 18c222bef9ae745ce69ddde9b74337ca
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: Physics2DRaycaster
+  - hash:
+      serializedVersion: 2
+      Hash: 8eac63ae0dbb67bef1f212d5b7c6e16f
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.DevTools
+    className: DevToolsMenuController
+  - hash:
+      serializedVersion: 2
+      Hash: b5ad3ac64e6928b2f07d3a481321929c
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_AvatarEyeSample
+  - hash:
+      serializedVersion: 2
+      Hash: 811bc615736e65c399055f3165f7fd4e
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: InstantiationOrbsCombined
+  - hash:
+      serializedVersion: 2
+      Hash: c1933cc0a2f4ff6eb13333347497beb3
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: TimelineAsset
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_MirrorCameraSample_Eye_v2
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.DevTools
+    className: DisableGazeModifierOnFocus
+  - hash:
+      serializedVersion: 2
+      Hash: 24c74cc0d527a06113f2b967042769f0
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEditor.XR.LegacyInputHelpers
+    className: CameraOffset
+  - hash:
+      serializedVersion: 2
+      Hash: 6939772cb3ce775a8e8d99f332534491
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshProUGUI
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: GazeGrab
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_EyeSettingSample
+  - hash:
+      serializedVersion: 2
+      Hash: d76c69713c07e5a069d1b5c785390a64
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: UIGazeButtonGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: 56d18bae99bfeb4dfd7e75c36173ab67
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: DevToolsUIGazeButtonGraphics
+  - hash:
+      serializedVersion: 2
+      Hash: f336e086360abe49a3323e5f1583c35a
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: AudioTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 8e6ceabfd38a184413d69b7db56c89cc
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools
+    className: BeforeAfterTestCommandState
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: ControllerManager
+  - hash:
+      serializedVersion: 2
+      Hash: c7ac67361ac1468771891c2d618db0b0
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR
+    className: G2OM_DebugTool
+  - hash:
+      serializedVersion: 2
+      Hash: b9feb6e076115e3c51a6c845e28d757a
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: HandleHands
+  - hash:
+      serializedVersion: 2
+      Hash: b0b8d043fdf3733188f70f832a2681b5
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR
+    className: G2OM_DebugVisualization
+  - hash:
+      serializedVersion: 2
+      Hash: 893dbdbfe611d62e230a686ea89f1efd
+    assemblyName: UnityEngine.XR.LegacyInputHelpers.dll
+    namespaceName: UnityEngine.XR.LegacyInputHelpers
+    className: SwingArmModel
+  - hash:
+      serializedVersion: 2
+      Hash: bd91d4917d89f1d68427df9254457d69
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: DartBoard
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: MarkerTrack
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: ThrowAtGaze
+  - hash:
+      serializedVersion: 2
+      Hash: d791aa6007fa3640be1164ea75bb087d
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_StyleSheet
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: ViveSR.anipal.Eye
+    className: SRanipal_EyeFocusSample
+  - hash:
+      serializedVersion: 2
+      Hash: 9e035a8525c3ea91ed2df2e9dcd8313b
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR
+    className: GazeVisualizer
+  - hash:
+      serializedVersion: 2
+      Hash: 8cd1cbba27f3cb1717254f668e9e0d5a
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TextMeshPro
+  - hash:
+      serializedVersion: 2
+      Hash: 3165968ba45c74472d279ba04455fccb
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_ColorGradient
+  - hash:
+      serializedVersion: 2
+      Hash: ea5cb886b9e4aa1553003d609d8117e0
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITouchpadSwipeDetector
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner.Callbacks
+    className: PlayModeRunnerCallback
+  - hash:
+      serializedVersion: 2
+      Hash: ab7f6b265a194435f5b1f0d4b9e3c782
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITriggerGazeButton
+  - hash:
+      serializedVersion: 2
+      Hash: a225c3c151e0e810c13f1373c6fcb517
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: DevToolsUITriggerGazeButton
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: BaseInput
+  - hash:
+      serializedVersion: 2
+      Hash: 777fd149edc84763ac505915ff15e7a2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: Handle3DEyelids
+  - hash:
+      serializedVersion: 2
+      Hash: 1c737cf7da4ab09786904c339d94a91d
+    assemblyName: TobiiXRSDK.dll
+    namespaceName: Tobii.XR.Internal
+    className: TobiiEulaFile
+  - hash:
+      serializedVersion: 2
+      Hash: f6009d21d31badb12d0acf3c1fb7edc1
+    assemblyName: TobiiXRDevTools.dll
+    namespaceName: Tobii.XR.GazeModifier
+    className: DevToolsUITriggerGazeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: cae115c6fca2494bc5c93d65201184f2
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITriggerGazeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: caa533b001ae39b864ba8425019e2268
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Outline
+  - hash:
+      serializedVersion: 2
+      Hash: a63fc1a3b035e5a0b5839cd7f7b3086e
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: EventTrigger
+  - hash:
+      serializedVersion: 2
+      Hash: 5dea360fb0b147724ac344e6f399c2f3
+    assemblyName: Unity.TextMeshPro.dll
+    namespaceName: TMPro
+    className: TMP_SubMesh
+  - hash:
+      serializedVersion: 2
+      Hash: 9e2b81a1e025729d8146642a09907259
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: GazeGrabbableObject
+  - hash:
+      serializedVersion: 2
+      Hash: 71bb6a6b6c8f052f948db64c7dd3ca4f
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestRunner.Utils
+    className: TestRunCallbackListener
+  - hash:
+      serializedVersion: 2
+      Hash: 8ab9295d94483c961936d82d233d3df2
+    assemblyName: Unity.XR.Management.dll
+    namespaceName: UnityEngine.XR.Management
+    className: XRManagerSettings
+  - hash:
+      serializedVersion: 2
+      Hash: 9726bc46e15d44429bd38fb013657f1e
+    assemblyName: UnityEngine.TestRunner.dll
+    namespaceName: UnityEngine.TestTools.TestRunner
+    className: PlaymodeTestsController
+  - hash:
+      serializedVersion: 2
+      Hash: 2aeeec1b1a144c469cd2d37776bc2315
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Dropdown
+  - hash:
+      serializedVersion: 2
+      Hash: 748dd2a2a28da4e618912da5ac45684b
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.EventSystems
+    className: StandaloneInputModule
+  - hash:
+      serializedVersion: 2
+      Hash: 25070d73528aee73caa5b3672393b58d
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: UITouchpadGazeSlider
+  - hash:
+      serializedVersion: 2
+      Hash: aa88ae22474df55295327e4ee99e5a24
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Toggle
+  - hash:
+      serializedVersion: 2
+      Hash: ed335eee66ea277441343ac13e994ee6
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: Tobii.XR.Examples
+    className: GazeThrowableObject
+  - hash:
+      serializedVersion: 2
+      Hash: 8220b46879dc5e37db1b940c938f5744
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: SignalEmitter
+  - hash:
+      serializedVersion: 2
+      Hash: 7072231382eb3c4871b3dd75ad0227e1
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: Slider
+  - hash:
+      serializedVersion: 2
+      Hash: 2eb31b145881f17af19d63438eb14a17
+    assemblyName: Assembly-CSharp.dll
+    namespaceName: 
+    className: PulsateColor
+  - hash:
+      serializedVersion: 2
+      Hash: 0fd6822f6177297bd0eb4d83cc7a9030
+    assemblyName: UnityEngine.UI.dll
+    namespaceName: UnityEngine.UI
+    className: ToggleGroup
+  - hash:
+      serializedVersion: 2
+      Hash: c3d3430df9e3ea95e3e3d587961390fb
+    assemblyName: Unity.Timeline.dll
+    namespaceName: UnityEngine.Timeline
+    className: PlayableTrack
+  platform: 5
+  scenePathNames:
+  - Assets/Scenes/ParticleScene.unity
+  playerPath: C:/Users/eredm/Documents/unity_build_special_project/Special_Project.exe
