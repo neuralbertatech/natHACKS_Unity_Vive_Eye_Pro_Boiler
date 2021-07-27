@@ -36,10 +36,8 @@
     <ImplicitlyExpandDesignTimeFacades>false</ImplicitlyExpandDesignTimeFacades>
   </PropertyGroup>
   <ItemGroup>
-     <Compile Include="Assets\Scripts\EEG.cs" />
      <Compile Include="Assets\Scripts\HighlightAtGaze.cs" />
-     <Compile Include="Assets\Scripts\InstantiationOrbsCombined.cs" />
-     <Compile Include="Assets\Scripts\MainMenu.cs" />
+     <Compile Include="Assets\Scripts\InstantiationEEG.cs" />
      <Compile Include="Assets\Scripts\Old\BrainData.cs" />
      <Compile Include="Assets\Scripts\Old\BrainDataSim.cs" />
      <Compile Include="Assets\Scripts\Old\InstantiationBrain.cs" />
@@ -343,19 +341,19 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
     <Reference Include="Accord">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.dll</HintPath>
     </Reference>
     <Reference Include="Accord.Math.Core">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.Math.Core.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.Math.Core.dll</HintPath>
     </Reference>
     <Reference Include="Accord.Math">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.Math.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/Accord.Math.dll</HintPath>
     </Reference>
     <Reference Include="brainflow">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/brainflow.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Assets/brainflow.dll</HintPath>
     </Reference>
     <Reference Include="nunit.framework">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/PackageCache/com.unity.ext.nunit@1.0.5/net35/unity-custom/nunit.framework.dll</HintPath>
     </Reference>
     <Reference Include="netstandard">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data/NetStandard/ref/2.0.0/netstandard.dll</HintPath>
@@ -703,64 +701,64 @@
         <HintPath>C:/Program Files/Unity/Hub/Editor/2019.4.17f1/Editor/Data/NetStandard/compat/2.0.0/shims/netfx/System.Xml.Serialization.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.XR.Management.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Timeline.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Subsystem.Registration">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Subsystem.Registration.dll</HintPath>
     </Reference>
     <Reference Include="Unity.VSCode.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.VSCode.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.TextMeshPro.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.UI">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.UI.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Timeline">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Timeline.dll</HintPath>
     </Reference>
     <Reference Include="Unity.CollabProxy.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.CollabProxy.Editor.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="Unity.XR.Management.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.XR.Management.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Rider.Editor">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
     </Reference>
     <Reference Include="Unity.Recorder.Base">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.Recorder.Base.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.SpatialTracking">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="UnityEngine.SpatialTracking">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEngine.SpatialTracking.dll</HintPath>
     </Reference>
     <Reference Include="Unity.TextMeshPro">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/Unity.TextMeshPro.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.XR.LegacyInputHelpers">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.XR.LegacyInputHelpers.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor.UI">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/UnityEditor.UI.dll</HintPath>
     </Reference>
     <Reference Include="com.unity.quicksearch">
-        <HintPath>C:/Users/eredm/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/com.unity.quicksearch.dll</HintPath>
+        <HintPath>C:/Users/eredm/Documents/GitHub/natHACKS_Unity_Vive_Eye_Pro_Boiler/Library/ScriptAssemblies/com.unity.quicksearch.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
